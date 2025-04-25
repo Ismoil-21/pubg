@@ -1,0 +1,179 @@
+.bg-img{
+    background-image: url("./image/026b441a88dfc0194633755f033f7f553dfded55.png");
+    width: 100%;
+    height: 797px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 370px;
+    box-sizing: border-box;
+}
+
+.linkk{
+    
+}
+
+.img{
+    margin-left: 57px;
+}
+
+.header{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.divv{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-right: 73px;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+   
+}
+
+.btn{
+    background-color: #222222;
+    width: 192px;
+    height: 82px;
+    font-family: "Inter";
+font-weight: 700;
+font-size: 20px;
+line-height: 100%;
+transition: 0.3s;
+color: white;
+border: none;
+}
+
+.btn:hover{
+    background-color: #F1A900;
+    color: black;
+}
+
+.box2{
+    display: flex;
+    justify-content: center;
+    background-color: #222222;
+    gap: 101px;
+    height: 44px;
+    align-items: center;
+}
+
+.lin{
+    color: white;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.lin:hover{
+    color: red;
+}
+
+select{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: white;
+    transition: 0.3s;
+}
+
+select:hover{
+    color: red;
+}
+
+option{
+    color: black;
+}
+
+.di{
+    width: 235px;
+    height: 73px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+    font-family: "Inter";
+font-weight: 700;
+font-size: 40px;
+line-height: 100%;
+text-align: center;
+vertical-align: middle;
+
+}
+
+.di:hover{
+    background-color: #F1A900;
+    color: black;
+}
+
+.dio{
+    width: 235px;
+    height: 73px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F1A900;
+    color: black;
+    transition: 0.3s;
+    font-family: "Inter";
+font-weight: 700;
+font-size: 40px;
+line-height: 100%;
+text-align: center;
+vertical-align: middle;
+}
+
+.dio:hover{
+    background-color: black;
+    color: white;
+}
+
+.dil{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+}
+
+.d{
+    color: white;
+    background-color: #F1A90054;
+    width: 966px;
+    height: 202px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Inter;
+font-weight: 700;
+font-size: 64px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+vertical-align: middle;
+margin-left: 285px;
+margin-top: 62px;
+}
+
+
+.footer{
+    height: 101px;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    justify-content: space-between;
+    
+}
+
+.diy{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-right: 50px;
+}
